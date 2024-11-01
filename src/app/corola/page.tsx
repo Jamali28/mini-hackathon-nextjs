@@ -44,7 +44,7 @@ export default function Corolla(){
                           <h1 className=" text-center font-medium text-3xl pt-5 text-green-600">PKR 50,00,000</h1></div>
                                  
                              <div className="flex justify-center pt-4">
-                              <Link href="/Form">
+                              <Link href="/form">
                           <button className="rounded-md bg-sky-700 h-10 w-32" >
                             <a className="justify-center text-white"  >Make Payment</a></button>
                             </Link>
